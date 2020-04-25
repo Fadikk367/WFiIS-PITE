@@ -1,0 +1,11 @@
+08-04-20 23:58:58 - name: Jerry the plane - tilt: 13.2365
+08-04-20 23:58:59 - name: Jerry the plane - tilt: 17.1549
+08-04-20 23:58:59 - action: CORRECTION - value: -5
+08-04-20 23:59:00 - action: CORRECTION - value: -5
+08-04-20 23:59:00 - action: CORRECTION - value: -5
+08-04-20 23:59:00 - name: Jerry the plane - tilt: 5.8168
+08-04-20 23:59:00 - action: CORRECTION - value: -5
+08-04-20 23:59:00 - action: CORRECTION - value: 5
+08-04-20 23:59:00 - action: CORRECTION - value: 5
+08-04-20 23:59:01 - action: CORRECTION - value: 5
+08-04-20 23:59:01 - name: Jerry the plane - tilt: 11.8305
